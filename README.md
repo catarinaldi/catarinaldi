@@ -1,6 +1,6 @@
-<H1 align="center">Oiee! (●'◡'●) </H1>
+<H1 align="center">ooie! ◕ ◡ ◕ </H1>
 
-<H3 align="center">Estudante de Java fullstack na Generation Brasil </H3>
+<H3 align="center">Estudando um pouco de Java, Spring Boot e Angular na Generation Brasil </H3>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
  
 ##
-<H2 align="center"> 🔗 Links </H2>
+<H2 align="center"> 👩‍💻 Contatos/Projetos 👇🏻 </H2>
   
 <div align="center">
     <a href = "mailto:catarinarinaldi@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
